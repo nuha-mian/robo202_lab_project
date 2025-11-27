@@ -1,0 +1,21 @@
+[1.227s] Invoking command in '/root/shared_home/Documents/robo202/tricycle_camera_ws/src/tricycle_camera_pkg': PYTHONPATH=/root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tricycle_camera_pkg build --build-base /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build install --record /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log --single-version-externally-managed install_data
+[1.466s] running egg_info
+[1.467s] writing ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/PKG-INFO
+[1.467s] writing dependency_links to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/dependency_links.txt
+[1.467s] writing entry points to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/entry_points.txt
+[1.468s] writing requirements to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/requires.txt
+[1.468s] writing top-level names to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/top_level.txt
+[1.469s] reading manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+[1.473s] writing manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+[1.473s] running build
+[1.473s] running build_py
+[1.474s] running install
+[1.474s] running install_lib
+[1.475s] running install_data
+[1.476s] running install_egg_info
+[1.478s] removing '/root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.478s] Copying ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info to /root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg-0.0.0-py3.10.egg-info
+[1.480s] running install_scripts
+[1.504s] Installing image_capture script to /root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/tricycle_camera_pkg
+[1.504s] writing list of installed files to '/root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log'
+[1.533s] Invoked command in '/root/shared_home/Documents/robo202/tricycle_camera_ws/src/tricycle_camera_pkg' returned '0': PYTHONPATH=/root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tricycle_camera_pkg build --build-base /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build install --record /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log --single-version-externally-managed install_data

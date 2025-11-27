@@ -1,0 +1,28 @@
+[0.597s] Invoking command in '/workspace/src/tricycle_camera_pkg': PYTHONPATH=/workspace/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspace/install/tricycle_camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tricycle_camera_pkg build --build-base /workspace/build/tricycle_camera_pkg/build install --record /workspace/build/tricycle_camera_pkg/install.log --single-version-externally-managed install_data
+[0.812s] running egg_info
+[0.813s] writing ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/PKG-INFO
+[0.813s] writing dependency_links to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/dependency_links.txt
+[0.813s] writing entry points to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/entry_points.txt
+[0.813s] writing requirements to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/requires.txt
+[0.813s] writing top-level names to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/top_level.txt
+[0.814s] reading manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+[0.815s] writing manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+[0.815s] running build
+[0.815s] running build_py
+[0.815s] copying tricycle_camera_pkg/image_capture.py -> /workspace/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg
+[0.816s] running install
+[0.816s] running install_lib
+[0.817s] creating /workspace/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg
+[0.817s] copying /workspace/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg/__init__.py -> /workspace/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg
+[0.817s] copying /workspace/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg/image_capture.py -> /workspace/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg
+[0.818s] byte-compiling /workspace/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg/__init__.py to __init__.cpython-310.pyc
+[0.818s] byte-compiling /workspace/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg/image_capture.py to image_capture.cpython-310.pyc
+[0.818s] running install_data
+[0.818s] copying launch/simulation.launch.py -> /workspace/install/tricycle_camera_pkg/share/tricycle_camera_pkg/launch
+[0.819s] copying urdf/tricycle.sdf -> /workspace/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+[0.819s] running install_egg_info
+[0.821s] Copying ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info to /workspace/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg-0.0.0-py3.10.egg-info
+[0.822s] running install_scripts
+[0.850s] Installing image_capture script to /workspace/install/tricycle_camera_pkg/lib/tricycle_camera_pkg
+[0.851s] writing list of installed files to '/workspace/build/tricycle_camera_pkg/install.log'
+[0.873s] Invoked command in '/workspace/src/tricycle_camera_pkg' returned '0': PYTHONPATH=/workspace/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/workspace/install/tricycle_camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tricycle_camera_pkg build --build-base /workspace/build/tricycle_camera_pkg/build install --record /workspace/build/tricycle_camera_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing tricycle_camera_pkg.egg-info/PKG-INFO
+writing dependency_links to tricycle_camera_pkg.egg-info/dependency_links.txt
+writing entry points to tricycle_camera_pkg.egg-info/entry_points.txt
+writing requirements to tricycle_camera_pkg.egg-info/requires.txt
+writing top-level names to tricycle_camera_pkg.egg-info/top_level.txt
+reading manifest file 'tricycle_camera_pkg.egg-info/SOURCES.txt'
+writing manifest file 'tricycle_camera_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle-camera-pkg.egg-link (link to .)
+Installing image_capture script to /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/tricycle_camera_pkg
+
+Installed /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg
+running symlink_data
+symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/resource/tricycle_camera_pkg -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/package.xml -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg
+symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/launch/simulation.launch.py -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg/launch
+symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/urdf/tricycle.urdf -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/urdf/obstacles.urdf -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf

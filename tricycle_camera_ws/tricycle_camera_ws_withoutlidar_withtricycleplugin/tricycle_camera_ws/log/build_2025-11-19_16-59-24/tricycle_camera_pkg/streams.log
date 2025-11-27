@@ -1,0 +1,22 @@
+[2.042s] Invoking command in '/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build --no-deps symlink_data --force
+[2.838s] running develop
+[3.293s] running egg_info
+[3.342s] writing tricycle_camera_pkg.egg-info/PKG-INFO
+[3.343s] writing dependency_links to tricycle_camera_pkg.egg-info/dependency_links.txt
+[3.344s] writing entry points to tricycle_camera_pkg.egg-info/entry_points.txt
+[3.344s] writing requirements to tricycle_camera_pkg.egg-info/requires.txt
+[3.344s] writing top-level names to tricycle_camera_pkg.egg-info/top_level.txt
+[3.433s] reading manifest file 'tricycle_camera_pkg.egg-info/SOURCES.txt'
+[3.521s] writing manifest file 'tricycle_camera_pkg.egg-info/SOURCES.txt'
+[3.569s] running build_ext
+[3.569s] Creating /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle-camera-pkg.egg-link (link to .)
+[3.571s] Installing image_capture script to /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/tricycle_camera_pkg
+[3.572s] 
+[3.572s] Installed /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg
+[3.572s] running symlink_data
+[3.573s] symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/resource/tricycle_camera_pkg -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/ament_index/resource_index/packages
+[3.573s] symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/package.xml -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg
+[3.573s] symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/launch/simulation.launch.py -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg/launch
+[3.574s] symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/urdf/tricycle.urdf -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+[3.574s] symbolically linking /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/urdf/obstacles.urdf -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+[3.640s] Invoked command in '/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build --no-deps symlink_data --force

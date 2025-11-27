@@ -1,0 +1,43 @@
+running egg_info
+creating ../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info
+writing ../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/dependency_links.txt
+writing entry points to ../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/entry_points.txt
+writing requirements to ../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/requires.txt
+writing top-level names to ../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/top_level.txt
+writing manifest file '../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/build/tricycle_camera_pkg/build
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/build/tricycle_camera_pkg/build/lib
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg
+copying tricycle_camera_pkg/__init__.py -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg
+copying tricycle_camera_pkg/image_capture.py -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg
+running install
+running install_lib
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg
+copying /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg/__init__.py -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg
+copying /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg/image_capture.py -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg
+byte-compiling /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg/image_capture.py to image_capture.cpython-310.pyc
+running install_data
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/ament_index
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/ament_index/resource_index
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/ament_index/resource_index/packages
+copying resource/tricycle_camera_pkg -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg/launch
+copying launch/simulation.launch.py -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg/launch
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+copying urdf/tricycle.urdf -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+copying urdf/obstacles.urdf -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+copying urdf/obstacles.sdf -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+copying urdf/tricycle.sdf -> /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+creating /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/share/tricycle_camera_pkg/worlds
+running install_egg_info
+Copying ../../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info to /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing image_capture script to /root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/install/tricycle_camera_pkg/lib/tricycle_camera_pkg
+writing list of installed files to '/root/shared_home/Documents/robo202/tricycle_camera_ws_withoutlidar_withtricycleplugin/build/tricycle_camera_pkg/install.log'

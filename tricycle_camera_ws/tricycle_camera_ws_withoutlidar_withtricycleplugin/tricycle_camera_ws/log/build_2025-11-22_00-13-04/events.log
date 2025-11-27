@@ -1,0 +1,71 @@
+[0.000000] (-) TimerEvent: {}
+[0.001132] (tricycle_camera_pkg) JobQueued: {'identifier': 'tricycle_camera_pkg', 'dependencies': OrderedDict()}
+[0.001735] (tricycle_camera_pkg) JobStarted: {'identifier': 'tricycle_camera_pkg'}
+[0.098995] (-) TimerEvent: {}
+[0.199599] (-) TimerEvent: {}
+[0.300149] (-) TimerEvent: {}
+[0.400789] (-) TimerEvent: {}
+[0.501317] (-) TimerEvent: {}
+[0.601883] (-) TimerEvent: {}
+[0.702327] (-) TimerEvent: {}
+[0.802830] (-) TimerEvent: {}
+[0.903287] (-) TimerEvent: {}
+[1.003769] (-) TimerEvent: {}
+[1.104194] (-) TimerEvent: {}
+[1.204704] (-) TimerEvent: {}
+[1.305149] (-) TimerEvent: {}
+[1.405619] (-) TimerEvent: {}
+[1.506314] (-) TimerEvent: {}
+[1.606875] (-) TimerEvent: {}
+[1.707428] (-) TimerEvent: {}
+[1.808024] (-) TimerEvent: {}
+[1.908649] (-) TimerEvent: {}
+[2.009106] (-) TimerEvent: {}
+[2.109568] (-) TimerEvent: {}
+[2.210009] (-) TimerEvent: {}
+[2.310458] (-) TimerEvent: {}
+[2.411003] (-) TimerEvent: {}
+[2.511556] (-) TimerEvent: {}
+[2.514582] (tricycle_camera_pkg) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/tricycle_camera_pkg', 'build', '--build-base', '/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build', 'install', '--record', '/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/amanah/Documents/robo202/tricycle_camera_ws/src/tricycle_camera_pkg', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'PYTHON_BASIC_REPL': '1', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'amanah', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'XDG_SESSION_TYPE': 'wayland', 'GIT_ASKPASS': '/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'CLUTTER_DISABLE_MIPMAPPED_TEXT': '1', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/amanah', 'CHROME_DESKTOP': 'code.desktop', 'TERM_PROGRAM_VERSION': '1.105.1', 'DESKTOP_SESSION': 'ubuntu', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/code.desktop', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'VSCODE_GIT_ASKPASS_MAIN': '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/usr/share/code/code', 'MANAGERPID': '2271', 'PYDEVD_DISABLE_FILE_VALIDATION': '1', 'SYSTEMD_EXEC_PID': '2543', 'BUNDLED_DEBUGPY_PATH': '/home/amanah/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64/bundled/libs/debugpy', 'IM_CONFIG_CHECK_ENV': '1', 'VSCODE_PYTHON_AUTOACTIVATE_GUARD': '1', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '15325', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'amanah', 'JOURNAL_STREAM': '9:14947', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@wayland.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'amanah', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'PATH': '/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/amanah/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64/bundled/scripts/noConfigScripts:/home/amanah/.config/Code/User/globalStorage/github.copilot-chat/debugCommand', 'SESSION_MANAGER': 'local/amanah-Legion-5-15IRX10:@/tmp/.ICE-unix/2495,unix/amanah-Legion-5-15IRX10:/tmp/.ICE-unix/2495', 'INVOCATION_ID': '43e6bbac177f4ee692de3d5517005ca7', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'x11', 'DISPLAY': ':0', 'VSCODE_DEBUGPY_ADAPTER_ENDPOINTS': '/home/amanah/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-699d898a675ffe70.txt', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'Unity', 'PYTHONSTARTUP': '/home/amanah/.config/Code/User/workspaceStorage/061a3f4c6331a441daf55df38d49b953/ms-python.python/pythonrc.py', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.YD5BG3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-118f93cc5d.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/jazzy', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GJS_DEBUG_OUTPUT': 'stderr', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'GIT_PAGER': 'cat', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor'}, 'shell': False}
+[2.611679] (-) TimerEvent: {}
+[2.712129] (-) TimerEvent: {}
+[2.812638] (-) TimerEvent: {}
+[2.913139] (-) TimerEvent: {}
+[3.013711] (-) TimerEvent: {}
+[3.114228] (-) TimerEvent: {}
+[3.214767] (-) TimerEvent: {}
+[3.315298] (-) TimerEvent: {}
+[3.325555] (tricycle_camera_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[3.386123] (tricycle_camera_pkg) StdoutLine: {'line': b'writing ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/PKG-INFO\n'}
+[3.387023] (tricycle_camera_pkg) StdoutLine: {'line': b'writing dependency_links to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/dependency_links.txt\n'}
+[3.387725] (tricycle_camera_pkg) StdoutLine: {'line': b'writing entry points to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/entry_points.txt\n'}
+[3.388051] (tricycle_camera_pkg) StdoutLine: {'line': b'writing requirements to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/requires.txt\n'}
+[3.388555] (tricycle_camera_pkg) StdoutLine: {'line': b'writing top-level names to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/top_level.txt\n'}
+[3.415450] (-) TimerEvent: {}
+[3.505265] (tricycle_camera_pkg) StdoutLine: {'line': b"reading manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'\n"}
+[3.508770] (tricycle_camera_pkg) StdoutLine: {'line': b"writing manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'\n"}
+[3.509419] (tricycle_camera_pkg) StdoutLine: {'line': b'running build\n'}
+[3.509820] (tricycle_camera_pkg) StdoutLine: {'line': b'running build_py\n'}
+[3.510628] (tricycle_camera_pkg) StdoutLine: {'line': b'copying tricycle_camera_pkg/image_capture.py -> /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg\n'}
+[3.511292] (tricycle_camera_pkg) StdoutLine: {'line': b'running install\n'}
+[3.515559] (-) TimerEvent: {}
+[3.534616] (tricycle_camera_pkg) StdoutLine: {'line': b'running install_lib\n'}
+[3.598678] (tricycle_camera_pkg) StdoutLine: {'line': b'copying /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg/image_capture.py -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle_camera_pkg\n'}
+[3.600407] (tricycle_camera_pkg) StdoutLine: {'line': b'byte-compiling /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle_camera_pkg/image_capture.py to image_capture.cpython-312.pyc\n'}
+[3.602422] (tricycle_camera_pkg) StdoutLine: {'line': b'running install_data\n'}
+[3.603556] (tricycle_camera_pkg) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.615709] (-) TimerEvent: {}
+[3.668917] (tricycle_camera_pkg) StdoutLine: {'line': b"removing '/home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle_camera_pkg-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[3.669902] (tricycle_camera_pkg) StdoutLine: {'line': b'Copying ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info to /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle_camera_pkg-0.0.0-py3.12.egg-info\n'}
+[3.715850] (-) TimerEvent: {}
+[3.747489] (tricycle_camera_pkg) StdoutLine: {'line': b'running install_scripts\n'}
+[3.815979] (-) TimerEvent: {}
+[3.916460] (-) TimerEvent: {}
+[4.016990] (-) TimerEvent: {}
+[4.117490] (-) TimerEvent: {}
+[4.156596] (tricycle_camera_pkg) StdoutLine: {'line': b'Installing image_capture script to /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/tricycle_camera_pkg\n'}
+[4.157850] (tricycle_camera_pkg) StdoutLine: {'line': b"writing list of installed files to '/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log'\n"}
+[4.217643] (-) TimerEvent: {}
+[4.229290] (tricycle_camera_pkg) CommandEnded: {'returncode': 0}
+[4.258255] (tricycle_camera_pkg) JobEnded: {'identifier': 'tricycle_camera_pkg', 'rc': 0}
+[4.261098] (-) EventReactorShutdown: {}

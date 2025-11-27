@@ -1,0 +1,25 @@
+[0.530s] Invoking command in '/root/shared_home/Documents/robo202/tricycle_camera_ws/src/tricycle_camera_pkg': PYTHONPATH=/root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tricycle_camera_pkg build --build-base /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build install --record /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log --single-version-externally-managed install_data
+[0.734s] running egg_info
+[0.734s] writing ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/PKG-INFO
+[0.734s] writing dependency_links to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/dependency_links.txt
+[0.734s] writing entry points to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/entry_points.txt
+[0.734s] writing requirements to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/requires.txt
+[0.734s] writing top-level names to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/top_level.txt
+[0.736s] reading manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+[0.740s] writing manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+[0.740s] running build
+[0.740s] running build_py
+[0.740s] copying tricycle_camera_pkg/image_capture.py -> /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg
+[0.740s] running install
+[0.741s] running install_lib
+[0.742s] copying /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg/image_capture.py -> /root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg
+[0.742s] byte-compiling /root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg/image_capture.py to image_capture.cpython-310.pyc
+[0.743s] running install_data
+[0.743s] copying urdf/tricycle.urdf -> /root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/share/tricycle_camera_pkg/urdf
+[0.744s] running install_egg_info
+[0.746s] removing '/root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.746s] Copying ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info to /root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages/tricycle_camera_pkg-0.0.0-py3.10.egg-info
+[0.747s] running install_scripts
+[0.769s] Installing image_capture script to /root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/tricycle_camera_pkg
+[0.769s] writing list of installed files to '/root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log'
+[0.789s] Invoked command in '/root/shared_home/Documents/robo202/tricycle_camera_ws/src/tricycle_camera_pkg' returned '0': PYTHONPATH=/root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/shared_home/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tricycle_camera_pkg build --build-base /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build install --record /root/shared_home/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log --single-version-externally-managed install_data

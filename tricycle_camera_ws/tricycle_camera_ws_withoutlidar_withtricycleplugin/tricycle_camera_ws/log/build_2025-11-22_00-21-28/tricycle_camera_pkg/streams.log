@@ -1,0 +1,24 @@
+[2.023s] Invoking command in '/home/amanah/Documents/robo202/tricycle_camera_ws/src/tricycle_camera_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tricycle_camera_pkg build --build-base /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build install --record /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log --single-version-externally-managed install_data
+[2.682s] running egg_info
+[2.725s] writing ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/PKG-INFO
+[2.726s] writing dependency_links to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/dependency_links.txt
+[2.727s] writing entry points to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/entry_points.txt
+[2.727s] writing requirements to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/requires.txt
+[2.727s] writing top-level names to ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/top_level.txt
+[2.815s] reading manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+[2.819s] writing manifest file '../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info/SOURCES.txt'
+[2.820s] running build
+[2.820s] running build_py
+[2.821s] copying tricycle_camera_pkg/image_capture.py -> /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg
+[2.821s] running install
+[2.838s] running install_lib
+[2.883s] copying /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build/lib/tricycle_camera_pkg/image_capture.py -> /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle_camera_pkg
+[2.884s] byte-compiling /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle_camera_pkg/image_capture.py to image_capture.cpython-312.pyc
+[2.886s] running install_data
+[2.886s] running install_egg_info
+[2.934s] removing '/home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle_camera_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[2.934s] Copying ../../build/tricycle_camera_pkg/tricycle_camera_pkg.egg-info to /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages/tricycle_camera_pkg-0.0.0-py3.12.egg-info
+[2.937s] running install_scripts
+[3.242s] Installing image_capture script to /home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/tricycle_camera_pkg
+[3.243s] writing list of installed files to '/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log'
+[3.301s] Invoked command in '/home/amanah/Documents/robo202/tricycle_camera_ws/src/tricycle_camera_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amanah/Documents/robo202/tricycle_camera_ws/install/tricycle_camera_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tricycle_camera_pkg build --build-base /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/build install --record /home/amanah/Documents/robo202/tricycle_camera_ws/build/tricycle_camera_pkg/install.log --single-version-externally-managed install_data
